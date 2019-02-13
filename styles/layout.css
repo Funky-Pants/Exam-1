@@ -11,6 +11,15 @@
 .row4, .row4 a{}
 .row5, .row5 a{}
 
+p.text{
+	text-align: justify;font-family: Comic Sans MS;
+}
+p.text2{
+	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+}
+#comments ul{
+	background-color: silver;
+}
 
 /* Top Bar
 --------------------------------------------------------------------------------------------------------------- */

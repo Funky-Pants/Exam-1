@@ -11,15 +11,7 @@
 .row4, .row4 a{}
 .row5, .row5 a{}
 
-p.text{
-	text-align: justify;font-family: Comic Sans MS;
-}
-p.text2{
-	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
-}
-#comments ul{
-	background-color: silver;
-}
+
 
 /* Top Bar
 --------------------------------------------------------------------------------------------------------------- */
@@ -110,6 +102,17 @@ p.nospace{display: none;}
 
 .sidebar .sdb_holder{margin-bottom:50px;}
 .sidebar .sdb_holder:last-child{margin-bottom:0;}
+p.text{
+	text-align: justify;font-family: Comic Sans MS;
+}
+p.text2{
+	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+}
+#comments ul{
+	background-color: silver;
+}
+.star{background-color: silver;}
+.ulStar{color: black !important;}
 
 
 /* Footer
